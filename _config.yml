@@ -17,7 +17,7 @@ title: FA25 DSGA 1011 Fundamentals of NLP
 tagline: Fall 2025 NYU Data Science Course Website
 description: course website
 author: Eunsol Choi
-baseurl: '/course-fa25' # the subpath of your site, e.g. /blog
+baseurl: '/nyu-ds-ga-1011' # the subpath of your site, e.g. /blog
 url: 'https://eunsol.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
