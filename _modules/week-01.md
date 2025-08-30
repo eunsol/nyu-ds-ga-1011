@@ -2,16 +2,16 @@
 title: Introduction to Java
 ---
 
-Sep 28
-: [Java & Git](#)
+Sep 5
+: [Introduction & Text Classification](#)
   : [1.1](#)
 
-Sep 29
+Sep 10
 : **Section**{: .label .label-purple }[Intro to Java](#)
   : [Solution](#)
 
-Sep 30
-: [Variables & Objects](#)
+Sep 12
+: [Word Embeddings](#)
   : [1.2](#), [2.1](#)
 
 Oct 1
