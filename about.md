@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About
+title: Syllabus
 description: >-
     Course policies and information.
 ---
 
-# About
 {:.no_toc}
 
 ## Table of contents
@@ -93,6 +92,7 @@ Please see this [document](https://docs.google.com/document/d/1Ee1vjiagtlwaehjrQ
 
 ## Final Grade
 Your letter grade will be assigned based on the following schema (i.e., you should achieve a final grade equal or higher than the cutoff listed below for each letter grade).    
+
 | Letter Grade | Cutoff     |
 |--------------|------------|
 | A            | 93         |
