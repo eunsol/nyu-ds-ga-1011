@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: FA25 DSGA 1011 Fundamentals of Natural Language Processing
+title: FA25 DSGA 1011 Fundamentals of NLP
 tagline: Fall 2025 NYU Data Science Course Website
 description: course website
 author: Eunsol Choi
