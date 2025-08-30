@@ -5,6 +5,7 @@ description: >-
     Course policies and information.
 ---
 
+<span style="color:red">Syllabus tentative and subject to change.</span>
 {:.no_toc}
 
 ## Table of contents
@@ -14,7 +15,6 @@ description: >-
 {:toc}
 
 ---
-
 ## When/Where
 ### Lecture and Sections
 - Lecture: Fridays 10:15am-12:15pm, 19 West 4th, Room 101
@@ -23,16 +23,7 @@ description: >-
 
 ### Office hours
 
-We will have five office hours each week: one with the instructor (lecture or general questions) and one with each of the four section leaders (lecture or assignment questions). You are also encouraged to ask questions on Discord, which will be answered by the TAs or your classmates.
-
-| Name                                  | Role                      | Email              | Office Hour (Time / Location)                        | Pictures |
-|---------------------------------------|---------------------------|--------------------|------------------------------------------------------|--|
-| Eunsol Choi                           | Instructor                | eunsol@nyu.edu     | Friday 1–2PM / 60 5th Room 600                       |![](https://eunsol.github.io/files/choi_eunsol.jpeg)
-| Yulin Chen                            | Section Leader / Grader   | yc7320@nyu.edu     | Thursday 4–5PM / 60 5th Room 242                     |![](_staffers/staff-yulin.jpg)
-| Yuhan Liu                             | Section Leader / Grader   | liu.yuhan@nyu.edu  | Wednesday 3–4PM / 60 5th Room 763                    | ![](_staffers/staff-yuhan.png)|
-| Venkat Kumar Laxmi Kanth Nemala      | Section Leader            | vn2263@nyu.edu     | Monday 10–11AM / 60 5th Room 242                     |![](_staffers/staff-venkat.jpeg)
-| Devaditya Mohanty                    | Section Leader / Grader   | dm5927@nyu.edu     | Saturday 11AM–12PM, over Zoom                        |![](_staffers/staff-dev.jpeg)
-| Rivujit Das                           | Grader                    | rd3681@nyu.edu     | N/A                                                  |![](_staffers/staff-riv.jpeg)
+We will have five office hours each week: one with the instructor (lecture or general questions) and one with each of the four section leaders (lecture or assignment questions). You are also encouraged to ask questions on Discord, which will be answered by the TAs or your classmates. See [staff](../staff) page for office hour details.
 
 
 

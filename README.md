@@ -8,8 +8,8 @@ seo:
   name: Fa25
 ---
 
-## NYU Data Science 
-DSGA 1011 Fundamentals of Natural Language Processing
+## DSGA 1011 Fundamentals of Natural Language Processing
+### NYU Data Science course, offered Fall 2025
 
 Instructor: [Eunsol Choi](https://eunsol.github.io)
 
