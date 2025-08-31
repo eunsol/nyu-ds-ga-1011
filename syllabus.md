@@ -30,7 +30,7 @@ We will have five office hours each week: one with the instructor (lecture or ge
 
 ## Course Policy
 ### Communication
-All key announcements will be made in Brightspace. We will use Discord as a communication tool for announcements and answering questions related to the lectures, assignments, and projects. The registration link for Discord will be available on Brightspace. All assignment / quiz submissions should be made in GradeScope. 
+All key announcements will be made in Brightspace. We will use Discord as a communication tool for answering questions related to the lectures, assignments, and projects. The registration link for Discord will be available on Brightspace. All assignment / quiz submissions should be made in GradeScope. 
 
 ### Prerequisites
 Students are expected to have a solid mathematics background and strong programming skills.
@@ -64,17 +64,17 @@ Submission: Assignments are submitted through Gradescope. At the beginning of th
 
 If the late date is used in the team assignment, it’ll use late day for *every* member of the team. 
 
-#### Assignment
+### Assignment
 There will be a total of 4 programming assignments. 
 - Assignment 1: NN basics / classification models
 - Assignment 2: Transformer from scratch
 - Assignment 3: Prompting LLMs
 - Assignment 4: Fine-tuning LLMs 
 
-#### In-Class Quiz
+### In-Class Quiz
 There will be a total of 4 quizzes. Each quiz will happen during the first 15 minutes of the class. The quiz will consist of a few questions: True/False, multiple choice and short answer questions that evaluate the concepts covered during the lecture in the weeks preceding the quiz. At least one week prior to the first quiz, the course staff will post some sample quiz questions to help your preparation. We will drop the lowest quiz grade when computing the final score, and the other three quizzes will count equally towards your final grade. 
 
-#### Final Project
+### Final Project
 Please see this [document](https://docs.google.com/document/d/1Ee1vjiagtlwaehjrQkoTx3xTXObLKnuFVd2UVesYWjE/edit?usp=sharing) for instructions on the final project. 
 
 ## Final Grade
