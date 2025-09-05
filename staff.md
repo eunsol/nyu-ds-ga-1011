@@ -4,7 +4,6 @@ title: Staff
 description: A listing of all the course staff members.
 ---
 
-
 ## Instructor
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -21,3 +20,6 @@ description: A listing of all the course staff members.
 {{ staffer }}
 {% endfor %}
 {% endif %}
+
+
+### Please use Discord for most inquiries. If you need to send a private message, please email to fa25-dsga1011-staff@googlegroups.com, which will be read by course instructor and teaching assistants. 

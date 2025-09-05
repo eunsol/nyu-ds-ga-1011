@@ -5,7 +5,6 @@ description: >-
     Course policies and information.
 ---
 
-<span style="color:red">Syllabus tentative and subject to change.</span>
 {:.no_toc}
 
 ## Table of contents
@@ -30,7 +29,7 @@ We will have five office hours each week: one with the instructor (lecture or ge
 
 ## Course Policy
 ### Communication
-All key announcements will be made in Brightspace. We will use Discord as a communication tool for answering questions related to the lectures, assignments, and projects. The registration link for Discord will be available on Brightspace. All assignment / quiz submissions should be made in GradeScope. 
+All key announcements will be made in Brightspace. We will use Discord as a communication tool for answering questions related to the lectures, assignments, and projects. The registration link for Discord will be available on Brightspace. All assignment / quiz submissions should be made in GradeScope. If you'd like to message course staff privately, please email to fa25-dsga1011-staff@googlegroups.com. The instructor / TAs will have access to this email. 
 
 ### Prerequisites
 Students are expected to have a solid mathematics background and strong programming skills.
@@ -67,7 +66,7 @@ Please read this document carefully, which lays out the expectations of the CDS 
 There will be three components that will count towards your grade. The deadlines can be found in [course schedule](./schedule).
 - Assignments (35%): There will be four assignments, each counting 10% of the final grade.
 - In-class Quiz (25%): There will be four closed-book in-class online quizzes. We will drop the lowest quiz grade, and the rest will count equally towards the final grade. You are expected to attend each lecture, and if you miss the quiz then you will get 0% for that quiz portion. 
-If you have to be absent for more than one quiz day for valid reasons (i.e., religious observance, documented illness (please don’t show up sick), family emergency, and others), please reach out to the instructor as soon as possible, it’ll be handled on a case-by-case basis.  
+If you have to be absent for *more than one* quiz day for valid reasons (i.e., religious observance, documented illness (please don’t show up sick), family emergency, and others), please reach out to the instruction team (fa25-dsga1011-staff@googlegroups.com) as soon as possible, it’ll be handled on a case-by-case basis.  
 - Final Project (40%): You are required to complete a (group) project applying techniques learned in this course. All group members will receive the same grade.
 
 Submission: Assignments are submitted through Gradescope. At the beginning of the semester, you will be added to the Gradescope roster through Brightspace. Please do not register on Gradescope separately or change your email; this will cause the rosters to be out-of-sync.
