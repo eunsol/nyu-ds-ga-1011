@@ -64,7 +64,7 @@ Please read this document carefully, which lays out the expectations of the CDS 
 
 ## Coursework Overview
 There will be three components that will count towards your grade. The deadlines can be found in [course schedule](./schedule).
-- Assignments (35%): There will be four assignments, each counting 10% of the final grade.
+- Assignments (35%): There will be four assignments, each counting equally towards the final grade.
 - In-class Quiz (25%): There will be four closed-book in-class online quizzes. We will drop the lowest quiz grade, and the rest will count equally towards the final grade. You are expected to attend each lecture, and if you miss the quiz then you will get 0% for that quiz portion. 
 If you have to be absent for *more than one* quiz day for valid reasons (i.e., religious observance, documented illness (please don’t show up sick), family emergency, and others), please reach out to the instruction team (fa25-dsga1011-staff@googlegroups.com) as soon as possible, it’ll be handled on a case-by-case basis.  
 - Final Project (40%): You are required to complete a (group) project applying techniques learned in this course. All group members will receive the same grade.
